@@ -60,6 +60,11 @@ They are completely separated from each other. Most likely going to find a stati
 ### Numerical Descriptive Results
 
 <!--Numerical results go here. Use the numerical results to describe the patterns if any that exist in the data as focused toward the research question!-->
+```{r}
+favstats(VitC~Cult,data=veggy)
+```
+
+The average amount of C39 is 51.5. while c52 is at 64.4. c52 is bigger than c39, it is disjointed. This is in a numerical form of the average mean and median.  
 
 ## Inferential Results
 
